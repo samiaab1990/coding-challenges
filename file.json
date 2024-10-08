@@ -1,0 +1,2 @@
+{"string":"value value","number":123, "object":{"name": "test", "number": 123},"boolean1":True,"boolean2":False,"array":["test", 123],"null": null
+}
