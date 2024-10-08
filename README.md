@@ -5,7 +5,7 @@ A Python program that parses JSON string into a Python dictionary.
 ## From command-line
 
 ```bash
-python json_parser.py file.json
+$ python json_parser.py file.json
 ```
 ## As module
 
